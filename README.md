@@ -1,4 +1,4 @@
-![phoenix logo](https://user-images.githubusercontent.com/68159874/148672868-627af21b-c586-421a-83b7-741ae5575243.png)|width=100
+![phoenix logo](https://user-images.githubusercontent.com/68159874/148672868-627af21b-c586-421a-83b7-741ae5575243.png |width=100)
 
 # [Cybernix-Phoenix-NSEC](https://www.phoenixnsec.in)
 
