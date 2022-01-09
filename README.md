@@ -24,3 +24,9 @@
 - [All HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 - [what is domain and what is hosting?](https://www.wpbeginner.com/beginners-guide/whats-the-difference-between-domain-name-and-web-hosting-explained/)
+
+- [Structure of URL](https://www.canva.com/design/DAE0faQ8Yxc/lJZlLdNKGq-OOFipKDkH1w/view?utm_content=DAE0faQ8Yxc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+-[Raw HTTP request using Netcat] 
+
+ 
