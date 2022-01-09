@@ -27,6 +27,6 @@
 
 - [Structure of URL](https://www.canva.com/design/DAE0faQ8Yxc/lJZlLdNKGq-OOFipKDkH1w/view?utm_content=DAE0faQ8Yxc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
--[Raw HTTP request using Netcat] (https://www.youtube.com/watch?v=rdgv-EqyeAU)
+-[Raw HTTP request using Netcat](https://www.youtube.com/watch?v=rdgv-EqyeAU)
 
  
