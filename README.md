@@ -1,5 +1,7 @@
 <!-- ![](| width=100) -->
-<img src="https://user-images.githubusercontent.com/68159874/148672868-627af21b-c586-421a-83b7-741ae5575243.png " width="150" height="280">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68159874/148672868-627af21b-c586-421a-83b7-741ae5575243.png " width="280" height="280">
+  </p>
 # [Cybernix-Phoenix-NSEC](https://www.phoenixnsec.in)
 
 ## internet_fundamentals_cheat_sheet
